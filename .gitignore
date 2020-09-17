@@ -1,0 +1,4 @@
+/rom_injection/build
+/rom_injection/*.elf
+/rom_injection/*.nacp
+/rom_injection/*.ovl
